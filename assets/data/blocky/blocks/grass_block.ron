@@ -1,0 +1,10 @@
+(
+    id: "blocky:grass_block",
+
+    top_texture: "grass_block_top",
+    bottom_texture: "dirt_block",
+    left_texture: "grass_block_side",
+    right_texture: "grass_block_side",
+    front_texture: "grass_block_side",
+    back_texture: "grass_block_side",
+)
