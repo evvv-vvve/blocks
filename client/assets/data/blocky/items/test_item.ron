@@ -1,0 +1,18 @@
+(
+    id: "test_namespace:test_item_name",
+    stack_size: 2,
+    item_traits: [
+        Durability(
+            max: 23.0,
+            break_on_empty: true
+        ),
+        Tool(
+            base_damage: 3.0,
+            tool_type: Sword,
+        ),
+        Consumable(
+            restoration: 3.0,
+            consumption_time: 0.5
+        ),
+    ]
+)
